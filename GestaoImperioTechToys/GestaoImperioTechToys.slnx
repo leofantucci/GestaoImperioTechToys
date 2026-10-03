@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConsoleApp/ConsoleApp.csproj" />
+  <Project Path="TechToysDominio/TechToysDominio.csproj" />
+  <Project Path="TestRepositorio/TestRepositorio.csproj" Id="18637c49-cd43-4c70-9e56-259aad772253" />
+</Solution>

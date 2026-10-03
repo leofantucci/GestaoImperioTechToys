@@ -1,0 +1,13 @@
+C:\Users\leofa\OneDrive\Desktop\GestaoImperioTechToys\GestaoImperioTechToys\TechToysDominio\obj\Debug\net8.0\TechToysDominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leofa\OneDrive\Desktop\GestaoImperioTechToys\GestaoImperioTechToys\TechToysDominio\obj\Debug\net8.0\TechToysDominio.AssemblyInfoInputs.cache
+C:\Users\leofa\OneDrive\Desktop\GestaoImperioTechToys\GestaoImperioTechToys\TechToysDominio\obj\Debug\net8.0\TechToysDominio.AssemblyInfo.cs
+C:\Users\leofa\OneDrive\Desktop\GestaoImperioTechToys\GestaoImperioTechToys\TechToysDominio\obj\Debug\net8.0\TechToysDominio.csproj.CoreCompileInputs.cache
+C:\Users\leofa\OneDrive\Desktop\GestaoImperioTechToys\GestaoImperioTechToys\TechToysDominio\bin\Debug\net8.0\TechToysDominio.deps.json
+C:\Users\leofa\OneDrive\Desktop\GestaoImperioTechToys\GestaoImperioTechToys\TechToysDominio\bin\Debug\net8.0\TechToysDominio.dll
+C:\Users\leofa\OneDrive\Desktop\GestaoImperioTechToys\GestaoImperioTechToys\TechToysDominio\bin\Debug\net8.0\TechToysDominio.pdb
+C:\Users\leofa\OneDrive\Desktop\GestaoImperioTechToys\GestaoImperioTechToys\TechToysDominio\obj\Debug\net8.0\TechToysDominio.dll
+C:\Users\leofa\OneDrive\Desktop\GestaoImperioTechToys\GestaoImperioTechToys\TechToysDominio\obj\Debug\net8.0\refint\TechToysDominio.dll
+C:\Users\leofa\OneDrive\Desktop\GestaoImperioTechToys\GestaoImperioTechToys\TechToysDominio\obj\Debug\net8.0\TechToysDominio.pdb
+C:\Users\leofa\OneDrive\Desktop\GestaoImperioTechToys\GestaoImperioTechToys\TechToysDominio\obj\Debug\net8.0\ref\TechToysDominio.dll
+C:\Users\leofa\OneDrive\Desktop\GestaoImperioTechToys\GestaoImperioTechToys\TechToysDominio\obj\Debug\net8.0\TechToys.EE74AE16.Up2Date
+C:\Users\leofa\OneDrive\Desktop\GestaoImperioTechToys\GestaoImperioTechToys\TechToysDominio\obj\Debug\net8.0\TechToysDominio.csproj.AssemblyReference.cache
